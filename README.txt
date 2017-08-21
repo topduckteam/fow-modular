@@ -1,3 +1,22 @@
+ .o88o.                                                                      .o8              oooo                          
+ 888 `"                                                                     "888              `888                          
+o888oo   .ooooo.  oooo oooo    ooo         ooo. .oo.  .oo.    .ooooo.   .oooo888  oooo  oooo   888   .oooo.   oooo d8b      
+ 888    d88' `88b  `88. `88.  .8'          `888P"Y88bP"Y88b  d88' `88b d88' `888  `888  `888   888  `P  )88b  `888""8P      
+ 888    888   888   `88..]88..8'   8888888  888   888   888  888   888 888   888   888   888   888   .oP"888   888          
+ 888    888   888    `888'`888'             888   888   888  888   888 888   888   888   888   888  d8(  888   888          
+o888o   `Y8bod8P'     `8'  `8'             o888o o888o o888o `Y8bod8P' `Y8bod88P"  `V88V"V8P' o888o `Y888""8o d888b         
+                                                                                                                    
+														    
+														    
+-- 08-21-17 --
+Updates:
+	- First upload of public repo for the plugin
+
+-- 08-16-17 --
+Updates:
+	- First public version of plugin
+	- All of reiya cluster spoilers added up-to-release
+
 -- 07-26-17 --
 
 Updates:
