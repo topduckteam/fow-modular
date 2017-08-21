@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>ForceOfWill-brewhouse</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDL1-009-r,SDL1-009-j">Millium, Prince of the Light Palace | Millium, Voice of a New Generation</name><set>SDL1</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDL1-002">Fairy Tale Kingdom, Light Palace</name><set>SDL1</set></card>
+		<card><name id="SDL1-002">Fairy Tale Kingdom, Light Palace</name><set>SDL1</set></card>
+		<card><name id="SDL1-002">Fairy Tale Kingdom, Light Palace</name><set>SDL1</set></card>
+		<card><name id="SDL1-002">Fairy Tale Kingdom, Light Palace</name><set>SDL1</set></card>
+		<card><name id="SDL1-007">Magic Sweets</name><set>SDL1</set></card>
+		<card><name id="SDL1-007">Magic Sweets</name><set>SDL1</set></card>
+		<card><name id="SDL1-007">Magic Sweets</name><set>SDL1</set></card>
+		<card><name id="SDL1-007">Magic Sweets</name><set>SDL1</set></card>
+		<card><name id="SDL1-008">Manifestation of Power</name><set>SDL1</set></card>
+		<card><name id="SDL1-008">Manifestation of Power</name><set>SDL1</set></card>
+		<card><name id="SDL1-008">Manifestation of Power</name><set>SDL1</set></card>
+		<card><name id="SDL1-008">Manifestation of Power</name><set>SDL1</set></card>
+		<card><name id="SDL1-010">Summoning from the Fairy Tale World</name><set>SDL1</set></card>
+		<card><name id="SDL1-010">Summoning from the Fairy Tale World</name><set>SDL1</set></card>
+		<card><name id="SDL1-010">Summoning from the Fairy Tale World</name><set>SDL1</set></card>
+		<card><name id="SDL1-010">Summoning from the Fairy Tale World</name><set>SDL1</set></card>
+		<card><name id="SDL1-001">Confectioner Hansel</name><set>SDL1</set></card>
+		<card><name id="SDL1-001">Confectioner Hansel</name><set>SDL1</set></card>
+		<card><name id="SDL1-001">Confectioner Hansel</name><set>SDL1</set></card>
+		<card><name id="SDL1-001">Confectioner Hansel</name><set>SDL1</set></card>
+		<card><name id="SDL1-003">Gourmand Gretel</name><set>SDL1</set></card>
+		<card><name id="SDL1-003">Gourmand Gretel</name><set>SDL1</set></card>
+		<card><name id="SDL1-003">Gourmand Gretel</name><set>SDL1</set></card>
+		<card><name id="SDL1-003">Gourmand Gretel</name><set>SDL1</set></card>
+		<card><name id="SDL1-004">Grimm, King of Fairy Tales</name><set>SDL1</set></card>
+		<card><name id="SDL1-004">Grimm, King of Fairy Tales</name><set>SDL1</set></card>
+		<card><name id="SDL1-004">Grimm, King of Fairy Tales</name><set>SDL1</set></card>
+		<card><name id="SDL1-004">Grimm, King of Fairy Tales</name><set>SDL1</set></card>
+		<card><name id="SDL1-005">Kid Puss in Boots</name><set>SDL1</set></card>
+		<card><name id="SDL1-005">Kid Puss in Boots</name><set>SDL1</set></card>
+		<card><name id="SDL1-005">Kid Puss in Boots</name><set>SDL1</set></card>
+		<card><name id="SDL1-005">Kid Puss in Boots</name><set>SDL1</set></card>
+		<card><name id="SDL1-006">Light Dress Cinderella</name><set>SDL1</set></card>
+		<card><name id="SDL1-006">Light Dress Cinderella</name><set>SDL1</set></card>
+		<card><name id="SDL1-006">Light Dress Cinderella</name><set>SDL1</set></card>
+		<card><name id="SDL1-006">Light Dress Cinderella</name><set>SDL1</set></card>
+		<card><name id="SDL1-011">Tinker Bell, the Fairy</name><set>SDL1</set></card>
+		<card><name id="SDL1-011">Tinker Bell, the Fairy</name><set>SDL1</set></card>
+		<card><name id="SDL1-011">Tinker Bell, the Fairy</name><set>SDL1</set></card>
+		<card><name id="SDL1-011">Tinker Bell, the Fairy</name><set>SDL1</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+		<card><name id="SDL1-012">Light Magic Stone (SDL1)</name><set>SDL1</set></card>
+	</superzone>
+</deck>

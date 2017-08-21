@@ -1,0 +1,183 @@
+<packdefinitions version="1.0">
+    <pack>
+        <packtitle>Legacy Lost</packtitle>
+        <packimage>LEL_pack</packimage>
+        <packformat>new froniter</packformat>
+        <packkind>booster</packkind>
+        <packdoubles>yes</packdoubles>
+
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>LEL</data>
+        </packcommoncrit>
+        <chance>
+            <prob>41</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>24</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>11</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>8</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>6</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>JR</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>6</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval> <data>SS</data></crit> </kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>3</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>1</prob>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Glorius, Masked Crusader | Faria, Ruler of Divine Beasts</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Pricia's Memoria</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Invading Demon of Water, Valentina | Valentina, Released Terror</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Remains of Attoractia</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Lilias Petal, Agent of Salvation | The Nine-Tailed Fox</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Killing Stone</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Lumia, the Fated Rebirth | Lumia, Saint of the Crimson Lotus</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Awakened Magic Stone, the Earth</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sol, Hierophant of the Helio Star | Sol, Dark Commander of Steam</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Vaporization</data></crit></kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Curse of the Frozen Casket</packtitle>
+        <packimage>CFC_pack</packimage>
+        <packformat>new froniter</packformat>
+        <packkind>booster</packkind>
+        <packdoubles>yes</packdoubles>
+
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>CFC</data>
+        </packcommoncrit>
+        <chance>
+            <prob>41</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>24</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>10</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>8</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>6</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>JR</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>6</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval> <data>SS</data></crit> </kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>3</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>1</prob>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Zero, Six Sage of Light | Zero, Master of the Magic Saber</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Mars, Fortuneteller of the Fire Star | Mars, Dark Commander of Fire</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Charlotte, Determined Girl | Charlotte, the Mage of Sacred Spirit</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>The Monkey King Born from Stone | Great Sky Sage, Sun Wukong</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Umr at-Tawil, Master of 1000 Keys | Yog-Sothoth, the Chaos of 1000 Doors</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>1</prob>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Black Silence (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Blasting Waves (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Dark Depth (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic stone of Deep Wood (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Gusting Skies (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Hearth's Core (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Heat Ray (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Heaven's Rift (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Light Vapors (CFC)</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Magic Stone of Scorched Bales (CFC)</data></crit></kind>
+        </chance>
+    </pack>
+</packdefinitions>

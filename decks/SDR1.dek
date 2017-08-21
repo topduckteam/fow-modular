@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>fow-modular</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDR1-010-r,SDR1-010-j">Taegrus Pearlshine | Taegrus Pearlshine, Lord of the Mountain</name><set>SDR1</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDR1-001">Diamond, the One-Eyed Treasury Magician</name><set>SDR1</set></card>
+		<card><name id="SDR1-001">Diamond, the One-Eyed Treasury Magician</name><set>SDR1</set></card>
+		<card><name id="SDR1-001">Diamond, the One-Eyed Treasury Magician</name><set>SDR1</set></card>
+		<card><name id="SDR1-001">Diamond, the One-Eyed Treasury Magician</name><set>SDR1</set></card>
+		<card><name id="SDR1-002">Gem Blade Onyx</name><set>SDR1</set></card>
+		<card><name id="SDR1-002">Gem Blade Onyx</name><set>SDR1</set></card>
+		<card><name id="SDR1-002">Gem Blade Onyx</name><set>SDR1</set></card>
+		<card><name id="SDR1-002">Gem Blade Onyx</name><set>SDR1</set></card>
+		<card><name id="SDR1-003">Gem Blade Ruby</name><set>SDR1</set></card>
+		<card><name id="SDR1-003">Gem Blade Ruby</name><set>SDR1</set></card>
+		<card><name id="SDR1-003">Gem Blade Ruby</name><set>SDR1</set></card>
+		<card><name id="SDR1-003">Gem Blade Ruby</name><set>SDR1</set></card>
+		<card><name id="SDR1-004">Gem Blade Sapphire</name><set>SDR1</set></card>
+		<card><name id="SDR1-004">Gem Blade Sapphire</name><set>SDR1</set></card>
+		<card><name id="SDR1-004">Gem Blade Sapphire</name><set>SDR1</set></card>
+		<card><name id="SDR1-004">Gem Blade Sapphire</name><set>SDR1</set></card>
+		<card><name id="SDR1-005">Gem Craftsman</name><set>SDR1</set></card>
+		<card><name id="SDR1-005">Gem Craftsman</name><set>SDR1</set></card>
+		<card><name id="SDR1-005">Gem Craftsman</name><set>SDR1</set></card>
+		<card><name id="SDR1-005">Gem Craftsman</name><set>SDR1</set></card>
+		<card><name id="SDR1-006">Gem Trader</name><set>SDR1</set></card>
+		<card><name id="SDR1-006">Gem Trader</name><set>SDR1</set></card>
+		<card><name id="SDR1-006">Gem Trader</name><set>SDR1</set></card>
+		<card><name id="SDR1-006">Gem Trader</name><set>SDR1</set></card>
+		<card><name id="SDR1-007">Jewel Burst</name><set>SDR1</set></card>
+		<card><name id="SDR1-007">Jewel Burst</name><set>SDR1</set></card>
+		<card><name id="SDR1-007">Jewel Burst</name><set>SDR1</set></card>
+		<card><name id="SDR1-007">Jewel Burst</name><set>SDR1</set></card>
+		<card><name id="SDR1-008">Jewel Shield</name><set>SDR1</set></card>
+		<card><name id="SDR1-008">Jewel Shield</name><set>SDR1</set></card>
+		<card><name id="SDR1-008">Jewel Shield</name><set>SDR1</set></card>
+		<card><name id="SDR1-008">Jewel Shield</name><set>SDR1</set></card>
+		<card><name id="SDR1-009">Jewel Sword</name><set>SDR1</set></card>
+		<card><name id="SDR1-009">Jewel Sword</name><set>SDR1</set></card>
+		<card><name id="SDR1-009">Jewel Sword</name><set>SDR1</set></card>
+		<card><name id="SDR1-009">Jewel Sword</name><set>SDR1</set></card>
+		<card><name id="SDR1-011">White Raven</name><set>SDR1</set></card>
+		<card><name id="SDR1-011">White Raven</name><set>SDR1</set></card>
+		<card><name id="SDR1-011">White Raven</name><set>SDR1</set></card>
+		<card><name id="SDR1-011">White Raven</name><set>SDR1</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDR1-012">Ore From The Treasure Mountain</name><set>SDR1</set></card>
+		<card><name id="SDR1-012">Ore From The Treasure Mountain</name><set>SDR1</set></card>
+		<card><name id="SDR1-012">Ore From The Treasure Mountain</name><set>SDR1</set></card>
+		<card><name id="SDR1-012">Ore From The Treasure Mountain</name><set>SDR1</set></card>
+		<card><name id="SDR1-013">Light Magic Stone (SDR1)</name><set>SDR1</set></card>
+		<card><name id="SDR1-013">Light Magic Stone (SDR1)</name><set>SDR1</set></card>
+		<card><name id="SDR1-013">Light Magic Stone (SDR1)</name><set>SDR1</set></card>
+		<card><name id="SDR1-013">Light Magic Stone (SDR1)</name><set>SDR1</set></card>
+		<card><name id="SDR1-013">Light Magic Stone (SDR1)</name><set>SDR1</set></card>
+		<card><name id="SDR1-013">Light Magic Stone (SDR1)</name><set>SDR1</set></card>
+	</superzone>
+</deck>

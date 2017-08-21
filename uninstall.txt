@@ -1,0 +1,6 @@
+<uninstall>
+
+<dateYYMMDD>170726</dateYYMMDD>
+<removepath>pluginpreferences.txt</removepath>
+<removepath>general/cardback.jpg</removepath>
+</uninstall>

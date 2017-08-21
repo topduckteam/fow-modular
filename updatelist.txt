@@ -1,0 +1,10 @@
+fow-modular	07-26-17
+
+CardURLFiles:
+CardImageURLsAlice.txt
+CardImageURLsExtras.txt
+CardImageURLsGrimm.txt
+CardImageURLsLapis.txt
+CardImageURLsPromo.txt
+CardImageURLsReiya.txt
+CardImageURLsValhalla.txt

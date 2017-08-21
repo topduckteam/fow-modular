@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>fow-modular</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDR3-007-r,SDR3-007-j">Shaela | Shaela, the Mermaid Princess</name><set>SDR3</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDR3-001">Angelic Voice Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-001">Angelic Voice Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-001">Angelic Voice Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-001">Angelic Voice Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-002">Aqua Rifle Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-002">Aqua Rifle Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-002">Aqua Rifle Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-002">Aqua Rifle Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-003">Cleansing Rain</name><set>SDR3</set></card>
+		<card><name id="SDR3-003">Cleansing Rain</name><set>SDR3</set></card>
+		<card><name id="SDR3-003">Cleansing Rain</name><set>SDR3</set></card>
+		<card><name id="SDR3-003">Cleansing Rain</name><set>SDR3</set></card>
+		<card><name id="SDR3-004">Giant Sea Jelly</name><set>SDR3</set></card>
+		<card><name id="SDR3-004">Giant Sea Jelly</name><set>SDR3</set></card>
+		<card><name id="SDR3-004">Giant Sea Jelly</name><set>SDR3</set></card>
+		<card><name id="SDR3-004">Giant Sea Jelly</name><set>SDR3</set></card>
+		<card><name id="SDR3-005">Peko, the Wise Dolphin</name><set>SDR3</set></card>
+		<card><name id="SDR3-005">Peko, the Wise Dolphin</name><set>SDR3</set></card>
+		<card><name id="SDR3-005">Peko, the Wise Dolphin</name><set>SDR3</set></card>
+		<card><name id="SDR3-005">Peko, the Wise Dolphin</name><set>SDR3</set></card>
+		<card><name id="SDR3-006">Princess Shaela&apos;s Attendant</name><set>SDR3</set></card>
+		<card><name id="SDR3-006">Princess Shaela&apos;s Attendant</name><set>SDR3</set></card>
+		<card><name id="SDR3-006">Princess Shaela&apos;s Attendant</name><set>SDR3</set></card>
+		<card><name id="SDR3-006">Princess Shaela&apos;s Attendant</name><set>SDR3</set></card>
+		<card><name id="SDR3-008">Stormbolt</name><set>SDR3</set></card>
+		<card><name id="SDR3-008">Stormbolt</name><set>SDR3</set></card>
+		<card><name id="SDR3-008">Stormbolt</name><set>SDR3</set></card>
+		<card><name id="SDR3-008">Stormbolt</name><set>SDR3</set></card>
+		<card><name id="SDR3-009">The White Whale</name><set>SDR3</set></card>
+		<card><name id="SDR3-009">The White Whale</name><set>SDR3</set></card>
+		<card><name id="SDR3-009">The White Whale</name><set>SDR3</set></card>
+		<card><name id="SDR3-009">The White Whale</name><set>SDR3</set></card>
+		<card><name id="SDR3-010">Wave Rider Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-010">Wave Rider Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-010">Wave Rider Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-010">Wave Rider Mermaid</name><set>SDR3</set></card>
+		<card><name id="SDR3-011">Weather Change: Rain</name><set>SDR3</set></card>
+		<card><name id="SDR3-011">Weather Change: Rain</name><set>SDR3</set></card>
+		<card><name id="SDR3-011">Weather Change: Rain</name><set>SDR3</set></card>
+		<card><name id="SDR3-011">Weather Change: Rain</name><set>SDR3</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDR3-012">Shoal Coral Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-012">Shoal Coral Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-012">Shoal Coral Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-012">Shoal Coral Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-013">Water Magic Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-013">Water Magic Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-013">Water Magic Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-013">Water Magic Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-013">Water Magic Stone</name><set>SDR3</set></card>
+		<card><name id="SDR3-013">Water Magic Stone</name><set>SDR3</set></card>
+	</superzone>
+</deck>

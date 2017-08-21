@@ -1,0 +1,71 @@
+<plugin>
+	<pluginversion>1.0.0</pluginversion>
+	<pluginname>fow-modular</pluginname>
+
+	<playerstat><label>Health</label><initialvalue>40</initialvalue></playerstat>
+	<deckzone><label>Ruler</label><gamezonetoloadto>Hand</gamezonetoloadto><shuffle>yes</shuffle></deckzone>
+	<deckzone><label>Deck</label><gamezonetoloadto>Deck</gamezonetoloadto><shuffle>yes</shuffle></deckzone>
+	<deckzone><label>Stone deck</label><gamezonetoloadto>Stone deck</gamezonetoloadto><shuffle>yes</shuffle></deckzone>
+	<deckzone><label>Side deck</label><gamezonetoloadto>Side</gamezonetoloadto><shuffle>no</shuffle></deckzone>
+	<deckzone><label>Tokens</label><gamezonetoloadto>Tokens</gamezonetoloadto><shuffle>no</shuffle></deckzone>
+		
+	<gamezone><label>Hand</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Deck</label><visibletoowner>no</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Graveyard</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Removed Area</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Lifebreak Area</label><visibletoowner>no</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Stone deck</label><visibletoowner>no</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Side</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Tokens</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	
+	<phase><label>Draw</label></phase>
+	<phase><label>Upkeep</label></phase>
+	<phase><label>Main</label></phase>
+	<phase><label>Battle</label></phase>
+	<phase><label>End</label></phase>
+	
+	<generalfunction><label>Recover All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
+	<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+	<generalfunction>
+		<label>Call Stone</label><kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner><sourcegamezone>Stone deck</sourcegamezone><sourceposition>top</sourceposition>
+		<destinationowner>table</destinationowner><destinationposition>faceup</destinationposition>
+	 </generalfunction>
+	<generalfunction>
+		<label>Send top deck to Graveyard</label><kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner><sourcegamezone>Deck</sourcegamezone><sourceposition>top</sourceposition>
+		<destinationowner>performer</destinationowner><destinationgamezone>Graveyard</destinationgamezone><destinationposition>top</destinationposition>
+	 </generalfunction>
+	<generalfunction>
+		<label>Put a break</label><kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner><sourcegamezone>Deck</sourcegamezone><sourceposition>top</sourceposition>
+		<destinationowner>performer</destinationowner><destinationgamezone>Lifebreak Area</destinationgamezone><destinationposition>top</destinationposition>
+	 </generalfunction>
+	 <generalfunction>
+		<label>Use break</label><kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner><sourcegamezone>Lifebreak Area</sourcegamezone><sourceposition>top</sourceposition>
+		<destinationowner>table</destinationowner><destinationposition>faceup</destinationposition>
+	 </generalfunction>
+	<generalfunction><label>Roll D20</label><kind>ROLLD20</kind></generalfunction>
+	<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
+	<generalfunction><label>Make Token</label><kind>
+	
+	<cardfunction><label>Recover</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Rest</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+	<cardfunction><label>Flip the card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Doesn't Recover</label><kind>TOGGLETURNALLIMMUNITY</kind></cardfunction>
+	<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+	<cardfunction><label>Put a red marker</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.2</PositionX><PositionY>.04</PositionY></cardfunction>
+	<cardfunction><label>Remove a red marker</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Put a green marker</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+	<cardfunction><label>Remove a green marker</label><kind>REMOVECOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Put a blue marker</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>.8</PositionX><PositionY>.04</PositionY></cardfunction>
+	<cardfunction><label>Remove a blue marker</label><kind>REMOVECOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+	
+	<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
+	<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+	<definition><kind>GRIDSIZE</kind><value>2</value></definition>
+	<definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
+</plugin>

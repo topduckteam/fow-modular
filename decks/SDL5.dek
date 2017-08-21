@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>ForceOfWill-brewhouse</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDL5-001-r,SDL5-001-j">Ally of the Black Moon | Eternal Vampire, Mikage Seijuro</name><set>SDL5</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDL5-003">Castle of Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-003">Castle of Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-003">Castle of Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-003">Castle of Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-002">Blood of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-002">Blood of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-002">Blood of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-002">Blood of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-007">Oni Strike</name><set>SDL5</set></card>
+		<card><name id="SDL5-007">Oni Strike</name><set>SDL5</set></card>
+		<card><name id="SDL5-007">Oni Strike</name><set>SDL5</set></card>
+		<card><name id="SDL5-007">Oni Strike</name><set>SDL5</set></card>
+		<card><name id="SDL5-008">Power Absorption</name><set>SDL5</set></card>
+		<card><name id="SDL5-008">Power Absorption</name><set>SDL5</set></card>
+		<card><name id="SDL5-008">Power Absorption</name><set>SDL5</set></card>
+		<card><name id="SDL5-008">Power Absorption</name><set>SDL5</set></card>
+		<card><name id="SDL5-004">Faithful Hellhound</name><set>SDL5</set></card>
+		<card><name id="SDL5-004">Faithful Hellhound</name><set>SDL5</set></card>
+		<card><name id="SDL5-004">Faithful Hellhound</name><set>SDL5</set></card>
+		<card><name id="SDL5-004">Faithful Hellhound</name><set>SDL5</set></card>
+		<card><name id="SDL5-005">Heaven Bound Pheasant</name><set>SDL5</set></card>
+		<card><name id="SDL5-005">Heaven Bound Pheasant</name><set>SDL5</set></card>
+		<card><name id="SDL5-005">Heaven Bound Pheasant</name><set>SDL5</set></card>
+		<card><name id="SDL5-005">Heaven Bound Pheasant</name><set>SDL5</set></card>
+		<card><name id="SDL5-006">Momotaro of the Sanzu River</name><set>SDL5</set></card>
+		<card><name id="SDL5-006">Momotaro of the Sanzu River</name><set>SDL5</set></card>
+		<card><name id="SDL5-006">Momotaro of the Sanzu River</name><set>SDL5</set></card>
+		<card><name id="SDL5-006">Momotaro of the Sanzu River</name><set>SDL5</set></card>
+		<card><name id="SDL5-009">Shara, Third Daughter of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-009">Shara, Third Daughter of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-009">Shara, Third Daughter of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-009">Shara, Third Daughter of the Mikage</name><set>SDL5</set></card>
+		<card><name id="SDL5-010">The Drunken Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-010">The Drunken Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-010">The Drunken Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-010">The Drunken Oni</name><set>SDL5</set></card>
+		<card><name id="SDL5-011">The Monkey Trapped in Life</name><set>SDL5</set></card>
+		<card><name id="SDL5-011">The Monkey Trapped in Life</name><set>SDL5</set></card>
+		<card><name id="SDL5-011">The Monkey Trapped in Life</name><set>SDL5</set></card>
+		<card><name id="SDL5-011">The Monkey Trapped in Life</name><set>SDL5</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+		<card><name id="SDL5-012">Darkness Magic Stone (SDL5)</name><set>SDL5</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>ForceOfWill-brewhouse</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDL2-007-r,SDL2-007-j">Lunya, the Wolf Girl | Nyarlathotep, the True False Legend</name><set>SDL2</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDL2-011">R&apos;lyeh, World of No Lies</name><set>SDL2</set></card>
+		<card><name id="SDL2-011">R&apos;lyeh, World of No Lies</name><set>SDL2</set></card>
+		<card><name id="SDL2-011">R&apos;lyeh, World of No Lies</name><set>SDL2</set></card>
+		<card><name id="SDL2-011">R&apos;lyeh, World of No Lies</name><set>SDL2</set></card>
+		<card><name id="SDL2-001">Charlatan&apos;s Tricks</name><set>SDL2</set></card>
+		<card><name id="SDL2-001">Charlatan&apos;s Tricks</name><set>SDL2</set></card>
+		<card><name id="SDL2-001">Charlatan&apos;s Tricks</name><set>SDL2</set></card>
+		<card><name id="SDL2-001">Charlatan&apos;s Tricks</name><set>SDL2</set></card>
+		<card><name id="SDL2-006">Lightning Strike</name><set>SDL2</set></card>
+		<card><name id="SDL2-006">Lightning Strike</name><set>SDL2</set></card>
+		<card><name id="SDL2-006">Lightning Strike</name><set>SDL2</set></card>
+		<card><name id="SDL2-006">Lightning Strike</name><set>SDL2</set></card>
+		<card><name id="SDL2-010">Nightmares of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-010">Nightmares of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-010">Nightmares of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-010">Nightmares of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-002">Emissary of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-002">Emissary of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-002">Emissary of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-002">Emissary of R&apos;lyeh</name><set>SDL2</set></card>
+		<card><name id="SDL2-003">Fayli, the Charlatan</name><set>SDL2</set></card>
+		<card><name id="SDL2-003">Fayli, the Charlatan</name><set>SDL2</set></card>
+		<card><name id="SDL2-003">Fayli, the Charlatan</name><set>SDL2</set></card>
+		<card><name id="SDL2-003">Fayli, the Charlatan</name><set>SDL2</set></card>
+		<card><name id="SDL2-004">Gentle Goat</name><set>SDL2</set></card>
+		<card><name id="SDL2-004">Gentle Goat</name><set>SDL2</set></card>
+		<card><name id="SDL2-004">Gentle Goat</name><set>SDL2</set></card>
+		<card><name id="SDL2-004">Gentle Goat</name><set>SDL2</set></card>
+		<card><name id="SDL2-005">Hastur, Chasing the Goats</name><set>SDL2</set></card>
+		<card><name id="SDL2-005">Hastur, Chasing the Goats</name><set>SDL2</set></card>
+		<card><name id="SDL2-005">Hastur, Chasing the Goats</name><set>SDL2</set></card>
+		<card><name id="SDL2-005">Hastur, Chasing the Goats</name><set>SDL2</set></card>
+		<card><name id="SDL2-008">Lunya&apos;s Best Friend</name><set>SDL2</set></card>
+		<card><name id="SDL2-008">Lunya&apos;s Best Friend</name><set>SDL2</set></card>
+		<card><name id="SDL2-008">Lunya&apos;s Best Friend</name><set>SDL2</set></card>
+		<card><name id="SDL2-008">Lunya&apos;s Best Friend</name><set>SDL2</set></card>
+		<card><name id="SDL2-009">Niggurath, the Shepherd</name><set>SDL2</set></card>
+		<card><name id="SDL2-009">Niggurath, the Shepherd</name><set>SDL2</set></card>
+		<card><name id="SDL2-009">Niggurath, the Shepherd</name><set>SDL2</set></card>
+		<card><name id="SDL2-009">Niggurath, the Shepherd</name><set>SDL2</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+		<card><name id="SDL2-012">Fire Magic Stone (SDL2)</name><set>SDL2</set></card>
+	</superzone>
+</deck>

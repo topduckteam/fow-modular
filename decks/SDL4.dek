@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>ForceOfWill-brewhouse</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDL4-002-r,SDL4-002-j">Fiethsing, Six Sage of Wind | Fiethsing, Master Magus of Holy Wind</name><set>SDL4</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDL4-004">Home of the Sages</name><set>SDL4</set></card>
+		<card><name id="SDL4-004">Home of the Sages</name><set>SDL4</set></card>
+		<card><name id="SDL4-004">Home of the Sages</name><set>SDL4</set></card>
+		<card><name id="SDL4-004">Home of the Sages</name><set>SDL4</set></card>
+		<card><name id="SDL4-003">Great Holy Sealing Wave</name><set>SDL4</set></card>
+		<card><name id="SDL4-003">Great Holy Sealing Wave</name><set>SDL4</set></card>
+		<card><name id="SDL4-003">Great Holy Sealing Wave</name><set>SDL4</set></card>
+		<card><name id="SDL4-003">Great Holy Sealing Wave</name><set>SDL4</set></card>
+		<card><name id="SDL4-009">Two-Fold Chant</name><set>SDL4</set></card>
+		<card><name id="SDL4-009">Two-Fold Chant</name><set>SDL4</set></card>
+		<card><name id="SDL4-009">Two-Fold Chant</name><set>SDL4</set></card>
+		<card><name id="SDL4-009">Two-Fold Chant</name><set>SDL4</set></card>
+		<card><name id="SDL4-011">Whispers from the Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-011">Whispers from the Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-011">Whispers from the Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-011">Whispers from the Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-001">Aria, Friendly Vampire</name><set>SDL4</set></card>
+		<card><name id="SDL4-001">Aria, Friendly Vampire</name><set>SDL4</set></card>
+		<card><name id="SDL4-001">Aria, Friendly Vampire</name><set>SDL4</set></card>
+		<card><name id="SDL4-001">Aria, Friendly Vampire</name><set>SDL4</set></card>
+		<card><name id="SDL4-005">Sacred Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-005">Sacred Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-005">Sacred Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-005">Sacred Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-006">Spirit of Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-006">Spirit of Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-006">Spirit of Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-006">Spirit of Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-007">Tama, Familiar of Holy Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-007">Tama, Familiar of Holy Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-007">Tama, Familiar of Holy Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-007">Tama, Familiar of Holy Wind</name><set>SDL4</set></card>
+		<card><name id="SDL4-008">Torrent Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-008">Torrent Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-008">Torrent Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-008">Torrent Elf</name><set>SDL4</set></card>
+		<card><name id="SDL4-010">Vampire Hunter Christie</name><set>SDL4</set></card>
+		<card><name id="SDL4-010">Vampire Hunter Christie</name><set>SDL4</set></card>
+		<card><name id="SDL4-010">Vampire Hunter Christie</name><set>SDL4</set></card>
+		<card><name id="SDL4-010">Vampire Hunter Christie</name><set>SDL4</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+		<card><name id="SDL4-012">Wind Magic Stone (SDL4)</name><set>SDL4</set></card>
+	</superzone>
+</deck>

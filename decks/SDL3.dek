@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>ForceOfWill-brewhouse</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDL3-007-r,SDL3-007-j">Mercurius, Wizard of the Water Star | Mercurius, Dark Commander of Ice</name><set>SDL3</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDL3-001">Ancient Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-001">Ancient Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-001">Ancient Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-001">Ancient Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-002">Ancient Knowledge</name><set>SDL3</set></card>
+		<card><name id="SDL3-002">Ancient Knowledge</name><set>SDL3</set></card>
+		<card><name id="SDL3-002">Ancient Knowledge</name><set>SDL3</set></card>
+		<card><name id="SDL3-002">Ancient Knowledge</name><set>SDL3</set></card>
+		<card><name id="SDL3-006">Malefic Ice Wall</name><set>SDL3</set></card>
+		<card><name id="SDL3-006">Malefic Ice Wall</name><set>SDL3</set></card>
+		<card><name id="SDL3-006">Malefic Ice Wall</name><set>SDL3</set></card>
+		<card><name id="SDL3-006">Malefic Ice Wall</name><set>SDL3</set></card>
+		<card><name id="SDL3-008">Mercurius&apos; Icy Spear</name><set>SDL3</set></card>
+		<card><name id="SDL3-008">Mercurius&apos; Icy Spear</name><set>SDL3</set></card>
+		<card><name id="SDL3-008">Mercurius&apos; Icy Spear</name><set>SDL3</set></card>
+		<card><name id="SDL3-008">Mercurius&apos; Icy Spear</name><set>SDL3</set></card>
+		<card><name id="SDL3-003">Astaroth, Great Duke of Hell</name><set>SDL3</set></card>
+		<card><name id="SDL3-003">Astaroth, Great Duke of Hell</name><set>SDL3</set></card>
+		<card><name id="SDL3-003">Astaroth, Great Duke of Hell</name><set>SDL3</set></card>
+		<card><name id="SDL3-003">Astaroth, Great Duke of Hell</name><set>SDL3</set></card>
+		<card><name id="SDL3-004">Ice Dragon of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-004">Ice Dragon of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-004">Ice Dragon of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-004">Ice Dragon of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-005">Keeper of the Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-005">Keeper of the Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-005">Keeper of the Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-005">Keeper of the Frozen Casket</name><set>SDL3</set></card>
+		<card><name id="SDL3-009">Messenger of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-009">Messenger of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-009">Messenger of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-009">Messenger of Altea</name><set>SDL3</set></card>
+		<card><name id="SDL3-010">Servant of Mercurius</name><set>SDL3</set></card>
+		<card><name id="SDL3-010">Servant of Mercurius</name><set>SDL3</set></card>
+		<card><name id="SDL3-010">Servant of Mercurius</name><set>SDL3</set></card>
+		<card><name id="SDL3-010">Servant of Mercurius</name><set>SDL3</set></card>
+		<card><name id="SDL3-011">Spirit of Ice</name><set>SDL3</set></card>
+		<card><name id="SDL3-011">Spirit of Ice</name><set>SDL3</set></card>
+		<card><name id="SDL3-011">Spirit of Ice</name><set>SDL3</set></card>
+		<card><name id="SDL3-011">Spirit of Ice</name><set>SDL3</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+		<card><name id="SDL3-012">Water Magic Stone (SDL3)</name><set>SDL3</set></card>
+	</superzone>
+</deck>

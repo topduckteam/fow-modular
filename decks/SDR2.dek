@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>fow-modular</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDR2-009-r,SDR2-009-j">Kirik Rerik | Kirik Rerik, the Draconic Warrior</name><set>SDR2</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDR2-001">Apprentice Cook</name><set>SDR2</set></card>
+		<card><name id="SDR2-001">Apprentice Cook</name><set>SDR2</set></card>
+		<card><name id="SDR2-001">Apprentice Cook</name><set>SDR2</set></card>
+		<card><name id="SDR2-001">Apprentice Cook</name><set>SDR2</set></card>
+		<card><name id="SDR2-002">Burning Awakening</name><set>SDR2</set></card>
+		<card><name id="SDR2-002">Burning Awakening</name><set>SDR2</set></card>
+		<card><name id="SDR2-002">Burning Awakening</name><set>SDR2</set></card>
+		<card><name id="SDR2-002">Burning Awakening</name><set>SDR2</set></card>
+		<card><name id="SDR2-003">Dragon Breath</name><set>SDR2</set></card>
+		<card><name id="SDR2-003">Dragon Breath</name><set>SDR2</set></card>
+		<card><name id="SDR2-003">Dragon Breath</name><set>SDR2</set></card>
+		<card><name id="SDR2-003">Dragon Breath</name><set>SDR2</set></card>
+		<card><name id="SDR2-004">Dragon of Mt. Hoelle</name><set>SDR2</set></card>
+		<card><name id="SDR2-004">Dragon of Mt. Hoelle</name><set>SDR2</set></card>
+		<card><name id="SDR2-004">Dragon of Mt. Hoelle</name><set>SDR2</set></card>
+		<card><name id="SDR2-004">Dragon of Mt. Hoelle</name><set>SDR2</set></card>
+		<card><name id="SDR2-005">Elia Rua, the Combat Chef</name><set>SDR2</set></card>
+		<card><name id="SDR2-005">Elia Rua, the Combat Chef</name><set>SDR2</set></card>
+		<card><name id="SDR2-005">Elia Rua, the Combat Chef</name><set>SDR2</set></card>
+		<card><name id="SDR2-005">Elia Rua, the Combat Chef</name><set>SDR2</set></card>
+		<card><name id="SDR2-006">Hell Flame</name><set>SDR2</set></card>
+		<card><name id="SDR2-006">Hell Flame</name><set>SDR2</set></card>
+		<card><name id="SDR2-006">Hell Flame</name><set>SDR2</set></card>
+		<card><name id="SDR2-006">Hell Flame</name><set>SDR2</set></card>
+		<card><name id="SDR2-007">Hoelle Pig</name><set>SDR2</set></card>
+		<card><name id="SDR2-007">Hoelle Pig</name><set>SDR2</set></card>
+		<card><name id="SDR2-007">Hoelle Pig</name><set>SDR2</set></card>
+		<card><name id="SDR2-007">Hoelle Pig</name><set>SDR2</set></card>
+		<card><name id="SDR2-008">Hoellesaurus</name><set>SDR2</set></card>
+		<card><name id="SDR2-008">Hoellesaurus</name><set>SDR2</set></card>
+		<card><name id="SDR2-008">Hoellesaurus</name><set>SDR2</set></card>
+		<card><name id="SDR2-008">Hoellesaurus</name><set>SDR2</set></card>
+		<card><name id="SDR2-010">Kirik&apos;s Partner</name><set>SDR2</set></card>
+		<card><name id="SDR2-010">Kirik&apos;s Partner</name><set>SDR2</set></card>
+		<card><name id="SDR2-010">Kirik&apos;s Partner</name><set>SDR2</set></card>
+		<card><name id="SDR2-010">Kirik&apos;s Partner</name><set>SDR2</set></card>
+		<card><name id="SDR2-011">Mad Boar of Mt. Hoelle</name><set>SDR2</set></card>
+		<card><name id="SDR2-011">Mad Boar of Mt. Hoelle</name><set>SDR2</set></card>
+		<card><name id="SDR2-011">Mad Boar of Mt. Hoelle</name><set>SDR2</set></card>
+		<card><name id="SDR2-011">Mad Boar of Mt. Hoelle</name><set>SDR2</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDR2-012">Dragon Ore</name><set>SDR2</set></card>
+		<card><name id="SDR2-012">Dragon Ore</name><set>SDR2</set></card>
+		<card><name id="SDR2-012">Dragon Ore</name><set>SDR2</set></card>
+		<card><name id="SDR2-012">Dragon Ore</name><set>SDR2</set></card>
+		<card><name id="SDR2-013">Fire Magic Stone</name><set>SDR2</set></card>
+		<card><name id="SDR2-013">Fire Magic Stone</name><set>SDR2</set></card>
+		<card><name id="SDR2-013">Fire Magic Stone</name><set>SDR2</set></card>
+		<card><name id="SDR2-013">Fire Magic Stone</name><set>SDR2</set></card>
+		<card><name id="SDR2-013">Fire Magic Stone</name><set>SDR2</set></card>
+		<card><name id="SDR2-013">Fire Magic Stone</name><set>SDR2</set></card>
+	</superzone>
+</deck>
