@@ -56,31 +56,31 @@ Sword of the Half Moon	SDR5	SDR5-010	SDR5-010	Chant	Mystery	{b}{b}	2			Darkness	
 Sword of the New Moon	SDR5	SDR5-011	SDR5-011	Chant	Mystery	{b}	1			Darkness	R	[Quickcast] (You may play this card anytime you have priority.) Choose one - Destroy target resonator with total cost 1 or less; or destroy target resonator with total cost 4 or less if this card was awakened. [Awakening] Remove a mystery counter from your J/ruler.
 	ACN	ACN-001	ACN-001									
 Crippling Light	ACN	ACN-002	ACN-002	Chant		{w}{w}{3}	5			Light	SR	Destroy all non-Golem resonators.
-	ACN	ACN-003	ACN-003									
-	ACN	ACN-004	ACN-004									
-	ACN	ACN-005	ACN-005									
-	ACN	ACN-006	ACN-006									
-	ACN	ACN-007	ACN-007									
-	ACN	ACN-008	ACN-008									
-	ACN	ACN-009	ACN-009									
-	ACN	ACN-010	ACN-010									
-	ACN	ACN-011	ACN-011									
-	ACN	ACN-012	ACN-012									
-	ACN	ACN-013	ACN-013									
-	ACN	ACN-014	ACN-014									
+Discovery	ACN	ACN-003	ACN-003	Chant		{w}	1			Light	C	[Quickcast] Gain a gem of any attribute. Draw a card.
+	ACN	ACN-004	ACN-004							Light		
+Gem Blade Emerald	ACN	ACN-005	ACN-005	Resonator	Panda	{w}{w}{2}	4	800	800	Light	U	When this card enters the field => Recover up to four target magic stones if you control a wind gem.
+Gem Minister Garnet	ACN	ACN-006	ACN-006	Resonator	Panda	{w}{w}{w}	3	500	900	Light	R	When this card enters the field => Gain a gem of any attribute. Draw a card.
+	ACN	ACN-007	ACN-007							Light		
+Heavy Arms Panda	ACN	ACN-008	ACN-008	Resonator	Panda	{w}{w}{2}	4	800	800	Light	C	This card gains [+400/+400] as long as there are three or more different attributes among all gems you control.
+	ACN	ACN-009	ACN-009							Light		
+Jewel Protection	ACN	ACN-010	ACN-010	Chant		{w}	1			Light	C	Gain a gem of any attribute. Then you may banish a gem. If you do, prevent all damage that would be dealt to target resonator by sources that share an attribute with the gem banished this way until end of turn. That resonator gains [Barrier](Banished gem's attributes) until end of turn.
+	ACN	ACN-011	ACN-011							Light		
+	ACN	ACN-012	ACN-012							Light		
+	ACN	ACN-013	ACN-013							Light		
+	ACN	ACN-014	ACN-014							Light		
 Magic Light Warrior	ACN	ACN-015	ACN-015	Resonator	Golem	{w}	1	600	600	Light	C	[Mobilize]{w} (This card cannot attack or block unless its controller pays {w}.)
-	ACN	ACN-016	ACN-016									
+	ACN	ACN-016	ACN-016							Light		
 Magic Sword Warrior	ACN	ACN-017	ACN-017	Resonator	Golem	{w}{w}	2	800	600	Light	U	[First Strike] [Mobilize]{w}
-	ACN	ACN-018	ACN-018									
-	ACN	ACN-019	ACN-019									
+Orphica, Dancer in the White Mist	ACN	ACN-018	ACN-018	Resonator	Dragonoid	{w}{w}	2	400	400	Light	SR	Pandas you control gain [+200/+200]. When this card enters the field => Remove another target resonator from the game. At the next end of turn => Put it into the field under its owner's control. When this card is put into a graveyard from the field => Search your deck for a Panda, reveal it and put it into your hand. Then shuffle your deck.
+	ACN	ACN-019	ACN-019							Light		
 Pandora | Pandora, Guardian of the Sacred Temple	ACN	ACN-020-r,ACN-020-j	ACN-020	Ruler | J-Ruler	Guardian	{w}	1	1000	2000	Light	JR	[Judgement] {w}. Play this ability only if you control three or more Golems. [Energize]{w} [Hair Ornament of Light]{0}: Target Golem you control is mobilized until end of turn. Play this ability only once per turn. | Golems you control are mobilized. If damage would be dealt to a Golem you control, it's dealt to this card instead. [Hair Ornament of Light]{w}{w}{2}: Golems you control gain [+400/+400] until end of turn.
-	ACN	ACN-021	ACN-021									
-	ACN	ACN-022	ACN-022									
-	ACN	ACN-023	ACN-023									
-	ACN	ACN-024	ACN-024									
-	ACN	ACN-025	ACN-025									
+	ACN	ACN-021	ACN-021							Light		
+	ACN	ACN-022	ACN-022							Light		
+	ACN	ACN-023	ACN-023							Light		
+Shin-Shin&Rei-Rei, Acrobatic Twins	ACN	ACN-024	ACN-024	Resonator	Panda	{w}{w}{3}	5	1000	1000	Light	R	When this card enters the field => You may banish two light gems. If you do, search your deck for a Panda and put it into the field. Then shuffle your deck.
+	ACN	ACN-025	ACN-025							Light		
 Ultimate Magic Warrior, Gear Atmos	ACN	ACN-026	ACN-026	Resonator	Golem	{w}{w}{5}	7	2000	2000	Light	R	[Mobilize]{3} You may banish three Golems rather than pay this card's cost. When this card enters the field => Destroy target resonator your opponent controls.
-	ACN	ACN-027	ACN-027									
+White Cat of Sasaru Palace	ACN	ACN-027	ACN-027	Resonator	Cat	{w}	1	200	200	Light	C	When this card is put into a graveyard from the field => Gain a gem of any attribute.
 	ACN	ACN-028	ACN-028									
 	ACN	ACN-029	ACN-029									
 	ACN	ACN-030	ACN-030									

@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>fow-modular</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDR4-004-r,SDR4-004-j">Gill | Gill, the Gifted Conjurer</name><set>SDR4</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDR4-001">Cecil Letoliel, Elven Prince</name><set>SDR4</set></card>
+		<card><name id="SDR4-001">Cecil Letoliel, Elven Prince</name><set>SDR4</set></card>
+		<card><name id="SDR4-001">Cecil Letoliel, Elven Prince</name><set>SDR4</set></card>
+		<card><name id="SDR4-001">Cecil Letoliel, Elven Prince</name><set>SDR4</set></card>
+		<card><name id="SDR4-002">Elven Guide</name><set>SDR4</set></card>
+		<card><name id="SDR4-002">Elven Guide</name><set>SDR4</set></card>
+		<card><name id="SDR4-002">Elven Guide</name><set>SDR4</set></card>
+		<card><name id="SDR4-002">Elven Guide</name><set>SDR4</set></card>
+		<card><name id="SDR4-003">Gentle Breeze Elemental</name><set>SDR4</set></card>
+		<card><name id="SDR4-003">Gentle Breeze Elemental</name><set>SDR4</set></card>
+		<card><name id="SDR4-003">Gentle Breeze Elemental</name><set>SDR4</set></card>
+		<card><name id="SDR4-003">Gentle Breeze Elemental</name><set>SDR4</set></card>
+		<card><name id="SDR4-005">Guardian of the Portal</name><set>SDR4</set></card>
+		<card><name id="SDR4-005">Guardian of the Portal</name><set>SDR4</set></card>
+		<card><name id="SDR4-005">Guardian of the Portal</name><set>SDR4</set></card>
+		<card><name id="SDR4-005">Guardian of the Portal</name><set>SDR4</set></card>
+		<card><name id="SDR4-006">Leaf Fighter</name><set>SDR4</set></card>
+		<card><name id="SDR4-006">Leaf Fighter</name><set>SDR4</set></card>
+		<card><name id="SDR4-006">Leaf Fighter</name><set>SDR4</set></card>
+		<card><name id="SDR4-006">Leaf Fighter</name><set>SDR4</set></card>
+		<card><name id="SDR4-007">Leaf Magician</name><set>SDR4</set></card>
+		<card><name id="SDR4-007">Leaf Magician</name><set>SDR4</set></card>
+		<card><name id="SDR4-007">Leaf Magician</name><set>SDR4</set></card>
+		<card><name id="SDR4-007">Leaf Magician</name><set>SDR4</set></card>
+		<card><name id="SDR4-008">Travelling Trader</name><set>SDR4</set></card>
+		<card><name id="SDR4-008">Travelling Trader</name><set>SDR4</set></card>
+		<card><name id="SDR4-008">Travelling Trader</name><set>SDR4</set></card>
+		<card><name id="SDR4-008">Travelling Trader</name><set>SDR4</set></card>
+		<card><name id="SDR4-009">Tree Root Sprite</name><set>SDR4</set></card>
+		<card><name id="SDR4-009">Tree Root Sprite</name><set>SDR4</set></card>
+		<card><name id="SDR4-009">Tree Root Sprite</name><set>SDR4</set></card>
+		<card><name id="SDR4-009">Tree Root Sprite</name><set>SDR4</set></card>
+		<card><name id="SDR4-010">Vanish</name><set>SDR4</set></card>
+		<card><name id="SDR4-010">Vanish</name><set>SDR4</set></card>
+		<card><name id="SDR4-010">Vanish</name><set>SDR4</set></card>
+		<card><name id="SDR4-010">Vanish</name><set>SDR4</set></card>
+		<card><name id="SDR4-011">Winds of Vitality</name><set>SDR4</set></card>
+		<card><name id="SDR4-011">Winds of Vitality</name><set>SDR4</set></card>
+		<card><name id="SDR4-011">Winds of Vitality</name><set>SDR4</set></card>
+		<card><name id="SDR4-011">Winds of Vitality</name><set>SDR4</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDR4-012">Spirit Stone</name><set>SDR4</set></card>
+		<card><name id="SDR4-012">Spirit Stone</name><set>SDR4</set></card>
+		<card><name id="SDR4-012">Spirit Stone</name><set>SDR4</set></card>
+		<card><name id="SDR4-012">Spirit Stone</name><set>SDR4</set></card>
+		<card><name id="SDR4-013">Wind Magic Stone (SDR4)</name><set>SDR4</set></card>
+		<card><name id="SDR4-013">Wind Magic Stone (SDR4)</name><set>SDR4</set></card>
+		<card><name id="SDR4-013">Wind Magic Stone (SDR4)</name><set>SDR4</set></card>
+		<card><name id="SDR4-013">Wind Magic Stone (SDR4)</name><set>SDR4</set></card>
+		<card><name id="SDR4-013">Wind Magic Stone (SDR4)</name><set>SDR4</set></card>
+		<card><name id="SDR4-013">Wind Magic Stone (SDR4)</name><set>SDR4</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>fow-modular</game>
+	</meta>
+	<superzone name="Ruler">
+		<card><name id="SDR5-009-r,SDR5-009-j">Reiya, Fourth Daughter of the Mikage | Reiya, Fourth Daughter of the Mikage</name><set>SDR5</set></card>
+	</superzone>
+	<superzone name="Deck">
+		<card><name id="SDR5-001">Ahriman, Malicious Eye in the Dark</name><set>SDR5</set></card>
+		<card><name id="SDR5-001">Ahriman, Malicious Eye in the Dark</name><set>SDR5</set></card>
+		<card><name id="SDR5-001">Ahriman, Malicious Eye in the Dark</name><set>SDR5</set></card>
+		<card><name id="SDR5-001">Ahriman, Malicious Eye in the Dark</name><set>SDR5</set></card>
+		<card><name id="SDR5-002">Alucard, the Vampiric Noble</name><set>SDR5</set></card>
+		<card><name id="SDR5-002">Alucard, the Vampiric Noble</name><set>SDR5</set></card>
+		<card><name id="SDR5-002">Alucard, the Vampiric Noble</name><set>SDR5</set></card>
+		<card><name id="SDR5-002">Alucard, the Vampiric Noble</name><set>SDR5</set></card>
+		<card><name id="SDR5-003">Ashen Snow White</name><set>SDR5</set></card>
+		<card><name id="SDR5-003">Ashen Snow White</name><set>SDR5</set></card>
+		<card><name id="SDR5-003">Ashen Snow White</name><set>SDR5</set></card>
+		<card><name id="SDR5-003">Ashen Snow White</name><set>SDR5</set></card>
+		<card><name id="SDR5-004">Bats from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-004">Bats from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-004">Bats from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-004">Bats from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-005">Dark Night Butterfly</name><set>SDR5</set></card>
+		<card><name id="SDR5-005">Dark Night Butterfly</name><set>SDR5</set></card>
+		<card><name id="SDR5-005">Dark Night Butterfly</name><set>SDR5</set></card>
+		<card><name id="SDR5-005">Dark Night Butterfly</name><set>SDR5</set></card>
+		<card><name id="SDR5-006">Empress Carmilla</name><set>SDR5</set></card>
+		<card><name id="SDR5-006">Empress Carmilla</name><set>SDR5</set></card>
+		<card><name id="SDR5-006">Empress Carmilla</name><set>SDR5</set></card>
+		<card><name id="SDR5-006">Empress Carmilla</name><set>SDR5</set></card>
+		<card><name id="SDR5-007">Grimm, the Pitch Black Vampire</name><set>SDR5</set></card>
+		<card><name id="SDR5-007">Grimm, the Pitch Black Vampire</name><set>SDR5</set></card>
+		<card><name id="SDR5-007">Grimm, the Pitch Black Vampire</name><set>SDR5</set></card>
+		<card><name id="SDR5-007">Grimm, the Pitch Black Vampire</name><set>SDR5</set></card>
+		<card><name id="SDR5-008">Moonlight Shadow</name><set>SDR5</set></card>
+		<card><name id="SDR5-008">Moonlight Shadow</name><set>SDR5</set></card>
+		<card><name id="SDR5-008">Moonlight Shadow</name><set>SDR5</set></card>
+		<card><name id="SDR5-008">Moonlight Shadow</name><set>SDR5</set></card>
+		<card><name id="SDR5-010">Sword of the Half Moon</name><set>SDR5</set></card>
+		<card><name id="SDR5-010">Sword of the Half Moon</name><set>SDR5</set></card>
+		<card><name id="SDR5-010">Sword of the Half Moon</name><set>SDR5</set></card>
+		<card><name id="SDR5-010">Sword of the Half Moon</name><set>SDR5</set></card>
+		<card><name id="SDR5-011">Sword of the New Moon</name><set>SDR5</set></card>
+		<card><name id="SDR5-011">Sword of the New Moon</name><set>SDR5</set></card>
+		<card><name id="SDR5-011">Sword of the New Moon</name><set>SDR5</set></card>
+		<card><name id="SDR5-011">Sword of the New Moon</name><set>SDR5</set></card>
+	</superzone>
+	<superzone name="Stone deck">
+		<card><name id="SDR5-012">Stone from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-012">Stone from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-012">Stone from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-012">Stone from the Dark Castle</name><set>SDR5</set></card>
+		<card><name id="SDR5-013">Darkness Magic Stone (SDR5)</name><set>SDR5</set></card>
+		<card><name id="SDR5-013">Darkness Magic Stone (SDR5)</name><set>SDR5</set></card>
+		<card><name id="SDR5-013">Darkness Magic Stone (SDR5)</name><set>SDR5</set></card>
+		<card><name id="SDR5-013">Darkness Magic Stone (SDR5)</name><set>SDR5</set></card>
+		<card><name id="SDR5-013">Darkness Magic Stone (SDR5)</name><set>SDR5</set></card>
+		<card><name id="SDR5-013">Darkness Magic Stone (SDR5)</name><set>SDR5</set></card>
+	</superzone>
+</deck>
