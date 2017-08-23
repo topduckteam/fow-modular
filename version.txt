@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>170822</lastupdateYYMMDD>
+<lastupdateYYMMDD>170823</lastupdateYYMMDD>
 <versionurl>http://downloads.heihachi.pw/lackey_files/version.txt</versionurl>
 <updateurl>http://downloads.heihachi.pw/lackey_files/updatelistcheck.txt</updateurl>
-<message>[Adding Reiya Spoilers]<message>
+<message>[Fixing counters and adding missing spoilers]<message>
 </version>

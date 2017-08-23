@@ -88,7 +88,7 @@
 		<set>RDE</set>
 		<set>ENW</set>
 		<set>SDR1</set>
-    <set>SDR2</set>
+   		<set>SDR2</set>
 		<set>SDR3</set>
 		<set>SDR4</set>
 		<set>SDR5</set>
@@ -132,9 +132,9 @@
 		<set>ENW</set>
 	</format>
 	<format>
-    <label>Reiya cluster</label>
-    <set>SDR1</set>
-    <set>SDR2</set>
+		<label>Reiya cluster</label>
+		<set>SDR1</set>
+		<set>SDR2</set>
 		<set>SDR3</set>
 		<set>SDR4</set>
 		<set>SDR5</set>
@@ -143,12 +143,6 @@
 	<format>
 		<label>New Frontiers</label>
 		<set>T</set>
-		<set>VS01</set>
-		<set>SKL</set>
-		<set>TTW</set>
-		<set>TMS</set>
-		<set>BFA</set>
-		<set>VIN002</set>
 		<set>CFC</set>
 		<set>SDL1</set>
 		<set>SDL2</set>
@@ -160,7 +154,7 @@
 		<set>RDE</set>
 		<set>ENW</set>
 		<set>SDR1</set>
-    <set>SDR2</set>
+    	<set>SDR2</set>
 		<set>SDR3</set>
 		<set>SDR4</set>
 		<set>SDR5</set>

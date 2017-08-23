@@ -190,7 +190,7 @@
 	<cardfunction>
 		<label>Remove a light marker</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>red</color>
+		<color>yellow</color>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	<cardfunction>
@@ -238,7 +238,7 @@
 	<cardfunction>
 		<label>Put a darkness marker</label>
 		<kind>ADDCOUNTER</kind>
-		<color>black</color>
+		<color>violet</color>
 		<includeasbutton>yes</includeasbutton>
 		<PositionX>1</PositionX>
 		<PositionY>.1</PositionY>
@@ -246,7 +246,7 @@
 	<cardfunction>
 		<label>Remove a darkness marker</label>
 		<kind>REMOVECOUNTER</kind>
-		<color>black</color>
+		<color>violet</color>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	<cardfunction>

@@ -173,7 +173,7 @@ Stone from the Dark Castle	SDR5	SDR5-012	SDR5-012	Special Magic Stone							SS	T
 Darkness Magic Stone (SDR5)	SDR5	SDR5-013	SDR5-013	Magic Stone							S	[Rest]: Produce {b}.
 Demonic Soulstone	ACN	ACN-148	ACN-148	Special Magic Stone							SS	Treat this card as a darkness magic stone. [Rest]: Produce {b}. {2}, [Rest]: This card deals 100 damage multiplied by the number of Dark Elves you control to each player.
 Mysterious Magic Stone	ACN	ACN-149	ACN-149	Special Magic Stone							SS	Treat this card as a light magic stone. [Rest]: Produce {w}. {w}, [Rest], banish this card: Put target Golem from your graveyard into your hand.
-	ACN											
+Saintly Elven Stone	ACN	ACN-150	ACN-150	Special Magic Stone							SS	Treat this card as a wind magic stone. [Rest]: Produce {g}. [Rest]: Target Elf gains [+100/+100] until end of turn.
 	ACN											
 	ACN											
 	ACN											

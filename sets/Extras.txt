@@ -3,8 +3,8 @@ Gill Alhama'at, He Who Grasps All	T	T-100	T-100	Resonator	Wizard			2000	2000	Lig
 Gill Alhama'at, He Who Grasps All	T	T-100	T-100	Token	Wizard			2000	2000	Light/Dark	J*	[Barrier][Swiftness][Precision][Flying][First Strike] Chants in your hand gain Ancient Magic in addition to their other subtypes.  You may play Ancient Magic cards from your hand without paying their cost.
 Elf Token	T	T-001,T-001b	T-001	Resonator	Elf			100	100	Wind	C	
 Elf Token	T	T-001,T-001b	T-001	Token	Elf			100	100	Wind	C	
-Fantasy Token	T	T-002,T-002b	T-002	Resonator	Elf			400 | X00	400 | X00	Water/Dark	C	
-Fantasy Token	T	T-002,T-002b	T-002	Token	Elf			400 | X00	400 | X00	Water/Dark	C	
+Fantasy Token	T	T-002,T-002b	T-002	Resonator	Fantasy			400 | X00	400 | X00	Water/Dark	C	
+Fantasy Token	T	T-002,T-002b	T-002	Token	Fantasy			400 | X00	400 | X00	Water/Dark	C	
 Bomb Token	T	T-003,T-003b	T-003	Resonator	Bomb			100	100	Fire	C	
 Bomb Token	T	T-003,T-003b	T-003	Token	Bomb			100	100	Fire	C	
 Dragon Token	T	T-004,T-004b	T-004	Resonator	Dragon			500	500	Fire/Wind	C	[Flying]

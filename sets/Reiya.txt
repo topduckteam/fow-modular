@@ -142,12 +142,12 @@ Waterfowl	ACN	ACN-084	ACN-084	Resonator	Bird	{u}{1}	2	400	600	Water	C	[Flying] T
 	ACN	ACN-086	ACN-086									
 	ACN	ACN-087	ACN-087									
 	ACN	ACN-088	ACN-088									
-	ACN	ACN-089	ACN-089									
+Commander of the Crowd	ACN	ACN-089	ACN-089	Resonator	Elf	{g}{g}{g}	3	700	700	Wind	U	When this card enters the field => Put two [100/100] wind Elf resonator tokens into the field. Whenever this card attacks => Other Elves you control gain [+100/+100] until end of turn.
 	ACN	ACN-090	ACN-090									
 	ACN	ACN-091	ACN-091									
 	ACN	ACN-092	ACN-092									
-	ACN	ACN-093	ACN-093									
-	ACN	ACN-094	ACN-094									
+Faerur Letoliel | Faerur Letoliel, King of Wind	ACN	ACN-093-r,ACN-093-j	ACN-093	Ruler | J-Ruler	Elf	{g}{g}{1}	3	800	1000	Wind	JR	[Judgement] {g}{g}{1} [Energize] {g} Rest two recovered Elf resonators you control: Recover target magic stone. Play this ability only once per turn. | This card enters the field with four gale protection counters. When this card enters the field => Search your deck for an Elf resonator with total cost 4 or less and put it into the field. Then shuffle your deck. Remove a gale protection counter from this card: Target Elf gains [Barrier] until end of turn. Remove a gale protection counter from this card: Target Elf gains [+300/+300] until end of turn
+Faerur's Command	ACN	ACN-094	ACN-094	Chant		{g}{g}{g}{4}	7			Wind	R	Recover all resonators you control. Resonators you control gain [+1000/+1000] and [Pierce] until end of turn.
 	ACN	ACN-095	ACN-095									
 	ACN	ACN-096	ACN-096									
 	ACN	ACN-097	ACN-097									
@@ -158,11 +158,11 @@ Waterfowl	ACN	ACN-084	ACN-084	Resonator	Bird	{u}{1}	2	400	600	Water	C	[Flying] T
 	ACN	ACN-102	ACN-102									
 	ACN	ACN-103	ACN-103									
 	ACN	ACN-104	ACN-104									
-	ACN	ACN-105	ACN-105									
-	ACN	ACN-106	ACN-106									
+Portal in the Woods	ACN	ACN-105	ACN-105	Addition		{g}{g}	2			Wind	U	When this card enters the field => Put five guidance counters on it. At the end of your turn => Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.
+Spirit Caller Elf	ACN	ACN-106	ACN-106	Resonator	Elf	{g}	1	100	100	Wind	C	When this card enters the field => Put a [100/100] wind Elf resonator token into the field.
 	ACN	ACN-107	ACN-107									
-	ACN	ACN-108	ACN-108									
-	ACN	ACN-109	ACN-109									
+Tia Letoliel, Archer Princess of Elves	ACN	ACN-108	ACN-108	Resonator	Elf	{g}{g}{2}	4	900	900	Wind	SR	When this card enters the field => Search your deck for a card named "Tia's White Falcon", reveal it and put it into your hand. Then shuffle your deck. When this card enters the field => Target resonator gains "When damage is dealt to this card => Destroy it." until end of turn. {g}{g}{g}{3}, [Rest]: This card deals 1000 damage to target player.
+Tia's White Falcon	ACN	ACN-109	ACN-109	Resonator	Beast	{g}	1	200	200	Wind	R	[Flying] As long as you control "Tia Letoliel, Archer Princess of Elves", this card gains [Swiftness]. Whenever this card attacks => It deals 200 damage to target player or resonator.
 	ACN	ACN-110	ACN-110									
 	ACN	ACN-111	ACN-111									
 	ACN	ACN-112	ACN-112									
