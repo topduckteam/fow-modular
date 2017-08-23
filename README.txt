@@ -1,3 +1,22 @@
+  ___                                       _         _                 
+ / __)                                     | |       | |                
+| |__   ___   _ _ _  ___  ____    ___    _ | | _   _ | |  ____   ____   
+|  __) / _ \ | | | |(___)|    \  / _ \  / || || | | || | / _  | / ___)  
+| |   | |_| || | | |     | | | || |_| |( (_| || |_| || |( ( | || |      
+|_|    \___/  \____|     |_|_|_| \___/  \____| \____||_| \_||_||_|      
+                                                                      
+                                                                                                                    
+														    
+														    
+-- 08-21-17 --
+Updates:
+	- First upload of public repo for the plugin
+
+-- 08-16-17 --
+Updates:
+	- First public version of plugin
+	- All of reiya cluster spoilers added up-to-release
+
 -- 07-26-17 --
 
 Updates:
