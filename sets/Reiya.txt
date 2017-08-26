@@ -139,7 +139,7 @@ Shaela's Foresight	ACN	ACN-079	ACN-079	Chant		{u}{u}	2			Water	R	[Quickcast] Cho
 Thunderfish	ACN	ACN-083	ACN-083	Resonator	Fish	{u}	1	200	200	Water	C	When this card enters the field => Target resonator doesn't recover during its controller's next recovery phase. When this card is put into a graveyard from the field => Draw a card if the weather is rain.
 Waterfowl	ACN	ACN-084	ACN-084	Resonator	Bird	{u}{1}	2	400	600	Water	C	[Flying] This card gains [+100/+200] as long as the weather is rain.
 	ACN	ACN-085	ACN-085									
-	ACN	ACN-086	ACN-086									
+Absolute Awareness	ACN	ACN-086	ACN-086	Chant	Spirit Magic	{g}{g}	2			Wind	C	Search your magic stone deck for a basic magic stone and put it into the field rested. Then shuffle your magic stone deck.
 	ACN	ACN-087	ACN-087									
 	ACN	ACN-088	ACN-088									
 Commander of the Crowd	ACN	ACN-089	ACN-089	Resonator	Elf	{g}{g}{g}	3	700	700	Wind	U	When this card enters the field => Put two [100/100] wind Elf resonator tokens into the field. Whenever this card attacks => Other Elves you control gain [+100/+100] until end of turn.
@@ -152,21 +152,21 @@ Faerur's Command	ACN	ACN-094	ACN-094	Chant		{g}{g}{g}{4}	7			Wind	R	Recover all 
 	ACN	ACN-096	ACN-096									
 	ACN	ACN-097	ACN-097									
 	ACN	ACN-098	ACN-098									
-	ACN	ACN-099	ACN-099									
+Leaf Archer	ACN	ACN-099	ACN-099	Resonator	Elemental	{g}{3}	4	600	1200	Wind	U	This card can block J/resonators with [Flying]. {g}{g}, [Rest]: This card deals 600 damage to target resonator with [Flying].
 	ACN	ACN-100	ACN-100									
-	ACN	ACN-101	ACN-101									
-	ACN	ACN-102	ACN-102									
-	ACN	ACN-103	ACN-103									
+Leaf Guard	ACN	ACN-101	ACN-101	Resonator	Elemental	{g}{1}	2	400	800	Wind	C	Remove an Elemental in your graveyard from the game: This card gains [+200/+200] until end of turn. Play this ability up to two times per turn. Remove an Elemental in your graveyard from the game: This card gains [Barrier] until end of turn.
+Leaf Healer	ACN	ACN-102	ACN-102	Resonator	Elemental	{g}{g}{3}	5	0	1500	Wind	U	At the end of your turn => Recover all resonators you control.
+Leaf Knight	ACN	ACN-103	ACN-103	Resonator	Elemental	{g}{g}	2	600	600	Wind	R	
 	ACN	ACN-104	ACN-104									
 Portal in the Woods	ACN	ACN-105	ACN-105	Addition		{g}{g}	2			Wind	U	When this card enters the field => Put five guidance counters on it. At the end of your turn => Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.
 Spirit Caller Elf	ACN	ACN-106	ACN-106	Resonator	Elf	{g}	1	100	100	Wind	C	When this card enters the field => Put a [100/100] wind Elf resonator token into the field.
-	ACN	ACN-107	ACN-107									
+Spiritual Guidance	ACN	ACN-107	ACN-107	Chant	Spirit Magic	{g}{g}{1}	3			Wind	U	Draw two cards. Then you gain 100 life for each card in your hand.
 Tia Letoliel, Archer Princess of Elves	ACN	ACN-108	ACN-108	Resonator	Elf	{g}{g}{2}	4	900	900	Wind	SR	When this card enters the field => Search your deck for a card named "Tia's White Falcon", reveal it and put it into your hand. Then shuffle your deck. When this card enters the field => Target resonator gains "When damage is dealt to this card => Destroy it." until end of turn. {g}{g}{g}{3}, [Rest]: This card deals 1000 damage to target player.
 Tia's White Falcon	ACN	ACN-109	ACN-109	Resonator	Beast	{g}	1	200	200	Wind	R	[Flying] As long as you control "Tia Letoliel, Archer Princess of Elves", this card gains [Swiftness]. Whenever this card attacks => It deals 200 damage to target player or resonator.
 	ACN	ACN-110	ACN-110									
 	ACN	ACN-111	ACN-111									
-	ACN	ACN-112	ACN-112									
-	ACN	ACN-113	ACN-113									
+Wind Blade	ACN	ACN-112	ACN-112	Chant	Elemental	{g}{1}	2			Wind	C	[Quickcast] This card deals 300 damage to target resonator, plus an additional 100 damage for each wind magic stone you control.
+Wind Ferryman	ACN	ACN-113	ACN-113	Resonator	Human	{g}	1	200	200	Wind	C	When this card enters the field => Look at the top three cards of your deck. You may reveal an Elemental or Spirit Magic from among them and put it into your hand. Put the rest on the bottom of your deck in any order.
 	ACN	ACN-114	ACN-114									
 	ACN	ACN-115	ACN-115									
 	ACN	ACN-116	ACN-116									
