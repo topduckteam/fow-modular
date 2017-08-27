@@ -6,9 +6,11 @@
 |_|    \___/  \____|     |_|_|_| \___/  \____| \____||_| \_||_||_|      
                                                                       
                                                                                                                     
--- 08-26-17 --
+-- 08-27-17 --
 Updates:
-	- Added elemental spoilers.
+    - Completely finish github plugin auto updates.
+        - Plugin will now update per git repo pushes. This will run a script on my server that will update all the updatelists and then alert users.
+    - Added Images to repo.
 														    
 -- 08-21-17 --
 Updates:
