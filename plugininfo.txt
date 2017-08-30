@@ -180,7 +180,7 @@
 		<PositionY>.95</PositionY>
 	</cardfunction>
 	<cardfunction>
-		<label>Put a light marker</label>
+		<label>Put a light gem</label>
 		<kind>ADDCOUNTER</kind>
 		<color>yellow</color>
 		<includeasbutton>yes</includeasbutton>
@@ -188,13 +188,13 @@
 		<PositionY>.9</PositionY>
 	</cardfunction>
 	<cardfunction>
-		<label>Remove a light marker</label>
+		<label>Remove a light gem</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>yellow</color>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	<cardfunction>
-		<label>Put a fire marker</label>
+		<label>Put a fire gem</label>
 		<kind>ADDCOUNTER</kind>
 		<color>red</color>
 		<includeasbutton>yes</includeasbutton>
@@ -202,13 +202,13 @@
 		<PositionY>.7</PositionY>
 	</cardfunction>
 	<cardfunction>
-		<label>Remove a fire marker</label>
+		<label>Remove a fire gem</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>red</color>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	<cardfunction>
-		<label>Put a water marker</label>
+		<label>Put a water gem</label>
 		<kind>ADDCOUNTER</kind>
 		<color>blue</color>
 		<includeasbutton>yes</includeasbutton>
@@ -216,13 +216,13 @@
 		<PositionY>.5</PositionY>
 	</cardfunction>
 	<cardfunction>
-		<label>Remove a water marker</label>
+		<label>Remove a water gem</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>blue</color>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	<cardfunction>
-		<label>Put a wind marker</label>
+		<label>Put a wind gem</label>
 		<kind>ADDCOUNTER</kind>
 		<color>green</color>
 		<includeasbutton>yes</includeasbutton>
@@ -230,13 +230,13 @@
 		<PositionY>.3</PositionY>
 	</cardfunction>
 	<cardfunction>
-		<label>Remove a wind marker</label>
+		<label>Remove a wind gem</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>green</color>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	<cardfunction>
-		<label>Put a darkness marker</label>
+		<label>Put a darkness gem</label>
 		<kind>ADDCOUNTER</kind>
 		<color>violet</color>
 		<includeasbutton>yes</includeasbutton>
@@ -244,7 +244,7 @@
 		<PositionY>.1</PositionY>
 	</cardfunction>
 	<cardfunction>
-		<label>Remove a darkness marker</label>
+		<label>Remove a darkness gem</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>violet</color>
 		<includeasbutton>yes</includeasbutton>
@@ -255,6 +255,21 @@
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	
+	<cardfunction>
+		<label>Add a basic counter</label>
+		<kind>ADDCOUNTER</kind>
+		<color>black</color>
+		<includeasbutton>yes</includeasbutton>
+		<PositionX>1</PositionX>
+		<PositionY>.1</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove a basic counter</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>black</color>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
 	<definition>
 		<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
 	</definition>

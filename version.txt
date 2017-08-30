@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>170827</lastupdateYYMMDD>
+<lastupdateYYMMDD>170830</lastupdateYYMMDD>
 <versionurl>https://raw.githubcontent.com/heihachi/fow-modular/master/version.txt</versionurl>
 <updateurl>https://downloads.heihachi.pw/lackey_files/updatelistcheck.txt</updateurl>
 <message>[More Elemental Spoilers]<message>
