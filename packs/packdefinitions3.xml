@@ -1,0 +1,65 @@
+<packdefinitions version="1.0">
+    <pack>
+        <packtitle>Ancient Night</packtitle>
+        <packimage>ACN_pack.jpg</packimage>
+        <packformat>Reya cluster</packformat>
+        <packkind>booster</packkind>
+        <packdoubles>yes</packdoubles>
+
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>ACN</data>
+        </packcommoncrit>
+        <chance>
+            <prob>48</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>24</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>11</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>8</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>6</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval> <data>SS</data></crit> </kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+
+        <chance>
+            <prob>3</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+    </pack>
+</packdefinitions>
